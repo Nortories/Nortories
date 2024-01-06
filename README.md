@@ -8,7 +8,7 @@ With a genuine passion for coding and problem-solving, I've delved into the worl
 ---
 
 ### 🎓 Academic Projects
-During my academic journey, I've had the opportunity to develop a simple educational math app using the Unity framework, showcasing my ability to turn concepts into tangible solutions.
+During my academic journey, I've had the opportunity to develop a educational math app using the Unity framework. On my spare time I wanted a way to keep track of the amount of time I spent on certain tasks, so I devoloped task-tracker to store, manage and and track the amount of time I spend on tasks, this showcasing my ability to turn concepts into tangible solutions.
 
 ---
 
