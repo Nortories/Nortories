@@ -13,12 +13,12 @@ During my academic journey, I've had the opportunity to develop a educational ma
 ---
 
 ### 💡 Interests
-My curiosity extends beyond programming – I'm captivated by the process of modularization, algorithm design processes.
+My curiosity extends beyond programming – I enjoy chess, rugby and the great out doors.
 
 ---
 
 ### 🛠️ Background
-While my formal experience might be in software, my background as a former construction foreman has honed my leadership, adaptability, and teamwork skills. This unique blend allows me to approach challenges with a multifaceted perspective.
+While my experience now might be in software, my background is a former construction foreman where I learned leadership, adaptability, and teamwork skills. This unique blend allows me to approach challenges with a multifaceted perspective.
 
 ---
 
