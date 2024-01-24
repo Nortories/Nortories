@@ -3,12 +3,11 @@
 ---
 
 ### 🚀 About Me
-With a genuine passion for coding and problem-solving, I've delved into the world of software design and programming. I believe that software is the driving force behind innovation, and I'm excited to be part of this dynamic field.
-
+I have a genuine passion for coding and problem-solving. I believe in the processes of simplification and enjoy learning technology that helps in automating my day-to-day tasks and goals. I fall asleep thinking about software design,  and how I can implement features or new ideas.
 ---
 
 ### 🎓 Academic Projects
-During my academic journey, I've had the opportunity to develop a educational math app using the Unity framework. On my spare time I wanted a way to keep track of the amount of time I spent on certain tasks, so I devoloped task-tracker to store, manage and and track the amount of time I spend on tasks, this showcasing my ability to turn concepts into tangible solutions.
+During my academic journey, I've had the opportunity to develop a educational mobile math app using the Unity engine. On my spare time I wanted a way to keep track of the amount of time I spent on certain tasks, so I developed task-tracker to store, manage and track the amount of time I spend on tasks, this showcasing my ability to turn concepts into tangible solutions. I also won 3rd place at the 2023 BYUI hackathon in communications, programming and wiring Arduinos and screens to make a controller that outputs HEX color values to a screen from three inputs, with the object of player 1 adjusting the values with the controller and only player being about to see the outputs. The goal is to communicate with one another to match the color values with a randomly selected color.
 
 ---
 
