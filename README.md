@@ -1,4 +1,4 @@
-👋 **Hello! I'm Joshua Sooaemalelagi, a dedicated and aspiring Software Engineer currently pursuing a BS in Software Engineering at BYU - Idaho.** 🖥️
+👋 **Hello! I'm Joshua Sooaemalelagi, a dedicated aspiring Software Engineer currently pursuing a BS in Software Engineering at BYU - Idaho.** 🖥️
 
 ---
 
