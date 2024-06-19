@@ -12,4 +12,4 @@
 
 🌱 Let's connect! I’m open to chatting about the latest tech trends, exchanging coding tips, or exploring new opportunities. Feel free to reach out!
 
-![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nortories&layout=compact&theme=dark&exclude_repo=smb1-disasm)
+![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nortories&hide=Tcl&layout=compact&langs_count=8&theme=radical)
