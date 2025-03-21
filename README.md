@@ -1,3 +1,7 @@
+I have switch to self hosting my own Gitlab for my personal and public projects.
+Feel free to check it out https://gitlab.nortories.com/explore
+
+
 👋 Hi there! I'm Joshua Sooaemalelagi, a passionate Software and IT Engineer.
 
 🚀 I absolutely love coding, IT, problem-solving, software and diving into the tech world. Recently, I’ve been getting hands-on with virtualization and IT infrastructure. I enjoy working on my homelab, clustering servers with VMware vSphere, or proxmox, where I set up a Window Server domains, websites, game servers, home automation. I also took on the challenge of designing networking solutions and applying STIGs to boost security and compliance.
@@ -13,5 +17,3 @@
 🌍 I'm always excited to learn more, grow my skills, and contribute to a collaborative team.
 
 🌱 Let's connect! I’m open to chatting about the latest tech trends, exchanging coding tips, or exploring new opportunities. Feel free to reach out!
-
-
